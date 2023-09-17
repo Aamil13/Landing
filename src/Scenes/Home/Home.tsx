@@ -1,7 +1,7 @@
 import { SelectedPage } from "@/shared/types"
 import useMediaQuery from "@/hooks/useMediaQuery"
 import ActionButtom from "@/shared/ActionButtom"
-import homepagetext from "@/assets/HomePageText.png"
+// import homepagetext from "@/assets/HomePageText.png"
 import dragonball from "@/assets/dragon-ball-png-five-star-dragon-ball-png-306.png"
 import goku from "@/assets/goku.png"
 import AnchorLink from "react-anchor-link-smooth-scroll"

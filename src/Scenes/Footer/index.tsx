@@ -1,9 +1,9 @@
 
 import HText from "@/shared/HText";
 
-type Props = {}
 
-const index = (props: Props) => {
+
+const index = () => {
   return (
     <footer className="bg-primary-100 py-16">
     <div className="justify-content mx-auto w-5/6 gap-16 md:flex">
