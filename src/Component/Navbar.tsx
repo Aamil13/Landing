@@ -1,5 +1,4 @@
 import { Bars3Icon,XMarkIcon } from "@heroicons/react/24/solid"
-import logo from "@/assets/Logo.png"
 import Link from "./Link"
 import { SelectedPage } from "@/shared/types"
 import useMediaQuery from "@/hooks/useMediaQuery"
